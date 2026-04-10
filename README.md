@@ -20,11 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobinChen121&layout=compact&langs_count=5" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RobinChen121&show_icons=true" height="160"/>
-</p>
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=RobinChen121)
 
 
